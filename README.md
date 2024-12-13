@@ -11,6 +11,8 @@ To set the activation key
 * Then, press and release the desired activation key.
 * A message box will appear confirming that the key has been changed successfully.
 * Press **OK**
+
+  ![App](./UCC.PNG)
   
 The default click delay of 1 second results in approximately 100 clicks per second (or 100 CPS) on my setup. When the delay between mouse clicks is doubled, it takes twice as long to perform each click, so the number of clicks performed in a second will be halved—resulting in 50 clicks per second or 50 CPS. Conversely, when the delay is halved (to 0.5 seconds), the time between each click is reduced by half, allowing for more clicks to be performed within a second—doubling the CPS to approximately 200 clicks per second.
 So CPS is Aprox related to the following
